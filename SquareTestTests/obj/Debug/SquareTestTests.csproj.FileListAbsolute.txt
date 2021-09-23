@@ -1,0 +1,16 @@
+C:\Yena\Работа\SquareTest\SquareTestTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Yena\Работа\SquareTest\SquareTestTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Yena\Работа\SquareTest\SquareTestTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Yena\Работа\SquareTest\SquareTestTests\bin\Debug\SquareTestTests.dll
+C:\Yena\Работа\SquareTest\SquareTestTests\bin\Debug\SquareTestTests.pdb
+C:\Yena\Работа\SquareTest\SquareTestTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Yena\Работа\SquareTest\SquareTestTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Yena\Работа\SquareTest\SquareTestTests\bin\Debug\SquareTest.dll
+C:\Yena\Работа\SquareTest\SquareTestTests\bin\Debug\SquareTest.pdb
+C:\Yena\Работа\SquareTest\SquareTestTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Yena\Работа\SquareTest\SquareTestTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Yena\Работа\SquareTest\SquareTestTests\obj\Debug\SquareTestTests.csproj.AssemblyReference.cache
+C:\Yena\Работа\SquareTest\SquareTestTests\obj\Debug\SquareTestTests.csproj.CoreCompileInputs.cache
+C:\Yena\Работа\SquareTest\SquareTestTests\obj\Debug\SquareTestTests.csproj.CopyComplete
+C:\Yena\Работа\SquareTest\SquareTestTests\obj\Debug\SquareTestTests.dll
+C:\Yena\Работа\SquareTest\SquareTestTests\obj\Debug\SquareTestTests.pdb
