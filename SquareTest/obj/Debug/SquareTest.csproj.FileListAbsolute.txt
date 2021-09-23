@@ -3,3 +3,4 @@ C:\Yena\Работа\SquareTest\SquareTest\bin\Debug\SquareTest.pdb
 C:\Yena\Работа\SquareTest\SquareTest\obj\Debug\SquareTest.csproj.CoreCompileInputs.cache
 C:\Yena\Работа\SquareTest\SquareTest\obj\Debug\SquareTest.dll
 C:\Yena\Работа\SquareTest\SquareTest\obj\Debug\SquareTest.pdb
+C:\Yena\Работа\SquareTest\SquareTest\obj\Debug\SquareTest.csproj.AssemblyReference.cache
