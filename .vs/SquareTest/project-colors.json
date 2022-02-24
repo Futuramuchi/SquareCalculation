@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1d1b0994-d2a2-4b19-aad5-810cfe2b5dff": {
+      "ProjectGuid": "1d1b0994-d2a2-4b19-aad5-810cfe2b5dff",
+      "DisplayName": "SquareTestTests",
+      "ColorIndex": 0
+    },
+    "05e22cfb-6b70-49c2-a6c3-e93a431906d9": {
+      "ProjectGuid": "05e22cfb-6b70-49c2-a6c3-e93a431906d9",
+      "DisplayName": "SquareTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
