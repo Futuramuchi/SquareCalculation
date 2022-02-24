@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace SquareTest.Tests
 {
     [TestClass()]
-    public class UnitTests
+    public class RectangleTests
     {
         [TestMethod()]
         public void IsTriangleIsRight()
