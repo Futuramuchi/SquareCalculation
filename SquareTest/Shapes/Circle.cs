@@ -8,6 +8,7 @@ namespace SquareTest
 {
     public class Circle
     {        
-        public double CountCircleSquare(double radius) => Math.Round(Math.PI * Math.Pow(radius, 2), 2);        
+        public double CountCircleSquare(double radius) => Math.Round(Math.PI * Math.Pow(radius, 2), 2);
+        public string Test => "Hello";
     }
 }
